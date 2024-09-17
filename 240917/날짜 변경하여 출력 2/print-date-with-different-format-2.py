@@ -1,3 +1,3 @@
 a, b, c = map(int, input().split("-"))
 
-print(f"{c}.{b}.{a}")
+print(f"{c}.{a}.{b}")
